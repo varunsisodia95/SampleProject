@@ -18,7 +18,7 @@ This project is my attempt to create my own resume scanner which will read pdf f
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://freeimage.host/i/PIJYMX" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
